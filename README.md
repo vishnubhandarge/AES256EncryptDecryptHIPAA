@@ -1,5 +1,5 @@
 # AES256EncryptDecryptHIPAA
-Desktop application for Linux, Windows, Mac to encrypt and decrypt payload recommended by HIPAA
+Desktop application for Linux, Windows, Mac to encrypt and decrypt payload recommended by HIPAA using AES 256, IV 96 and Tag 128 bit.
 # Bhandarge Soft CryptoDesk
 
 **Bhandarge Soft CryptoDesk** is a cross-platform desktop utility built with **Avalonia UI** and **.NET**, designed to encrypt and decrypt text using **AES-256-GCM**.  
